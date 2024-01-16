@@ -1,0 +1,163 @@
+{
+   "news" : [
+      {
+         "id": "1",
+         "image": "./public/id_1.jpg",
+         "name": "Abdusattor",
+         "username": "Abdurahimov",
+         "job": "3D Max", 
+         "description": "Telegramda 1 million obunachisi bor, 3D Max orqali uyquda ham daromad qiladigan IT tadbirkor",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=rlhb4BHF6x8&t=8s",
+         "Premiered": "Nov 25, 2020",
+         "Views" : "680,607",
+         "youtube_chanel": "https://www.youtube.com/@maqsadclub",
+         "instagram_chanel": "https://www.instagram.com/abdusattor_abdurahimov",
+         "telegram_chanel": "https://t.me/abdusattor"
+       },
+
+      {
+         "id": "2",
+         "image": "./public/id_2.jpg",
+         "name": "Jahongir",
+         "username": "Po'latov",
+         "job": "Founder Cambridge LC", 
+         "description": "«Maqsadim - dunyoni o'zgartirish, pul esa shunchaki resurs» motivatsiyaga to'la, shijoatli tadbirkor",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=94_HY7QU3vY",
+         "Premiered": "Dec 31, 2020",
+         "Views" : "142,206",
+         "youtube_chanel": "https://www.youtube.com/@CambridgeLearningCenter",
+         "instagram_chanel": "https://www.instagram.com/jakhongir_pulatov",
+         "telegram_chanel": "https://t.me/jahongir_pulatov_blog"
+       },
+
+       {
+         "id": "3",
+         "image": "./public/id_3.jpeg",
+         "name": "Darxonbek ",
+         "username": "Mamataliyev",
+         "job": "iOS Enginer @ Uber", 
+         "description": "Angrendan Kaliforniyagacha. Uber kompaniyasida dasturchi sifatida ishlovchi o'zbek yigiti",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=DOuh1VQ3k4A",
+         "Premiered": "Dec 14, 2020",
+         "Views" : "289,952",
+         "youtube_chanel": "https://www.youtube.com/watch?v=2GqoDHgXpX4",
+         "instagram_chanel": "https://www.instagram.com/darhonbek/",
+         "telegram_chanel": "https://t.me/TenxEngineer"
+       },
+
+      {
+         "id": "4",
+         "image": "./public/id_4.jpg",
+         "name": "Saidbek",
+         "username": "Arislonov",
+         "job": "Senior Software Engineer", 
+         "description": "Universitetda o'qimaslik full stack dasturchi bo'lib Amerikada ishlashdan to'solmaydi",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=N2CN7pYcR-I",
+         "Premiered": "Jan 14, 2021",
+         "Views" : "254,497",
+         "youtube_chanel": "https://www.youtube.com/@SaidbekArislonov",
+         "instagram_chanel": "https://www.instagram.com/saidbekarislonov/",
+         "telegram_chanel": "https://t.me/saidbekarislonov"
+       },
+
+      {
+         "id": "5",
+         "image": "./public/id_5.jpg",
+         "name": "G'olibjon",
+         "username": "Sanokulov",
+         "job": "3D animator", 
+         "description": "Sekundiga 100 $ topa oladigan mutaxassis yoxud chet el darajasidagi multfilm tayyorlay olamizmi?",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=cSwU9TO4Ra0",
+         "Premiered": "Jan 22, 2021",
+         "Views" : "195,467",
+         "youtube_chanel": "https://www.youtube.com/watch?v=-G7FQwitl2M",
+         "instagram_chanel": "https://www.instagram.com/golib_sanokulov/",
+         "telegram_chanel": "https://t.me/najottalim/1412"
+       },
+
+      {
+         "id": "6",
+         "image": "./public/id_6.jpeg",
+         "name": "Yusufbek",
+         "username": "Nasriddinov",
+         "job": "QFC | Topbrains | CMUQ | Business Consultant and Financial Analyst", 
+         "description": "300 000 $ grant yutib, eng nufuzli oliygohda tahsil olayotgan o’zbek talabasi bilan ochiq suhbat",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=mg2CdGErl5Y",
+         "Premiered": "Jan 29, 2021",
+         "Views" : "281,647",
+         "youtube_chanel": "https://www.youtube.com/@yusufbeknasriddinov9156",
+         "instagram_chanel": "https://www.instagram.com/yusufbeknasriddinov/",
+         "telegram_chanel": "https://t.me/yusufbeknasriddinov"
+       },
+
+       {
+         "id": "7",
+         "image": "./public/id_7.jpg",
+         "name": "Azizbek",
+         "username": "Rahimov",
+         "job": "Founder of 'Rahimov School'", 
+         "description": "Universitetni bitirdingiz degani qaysidir korxona uchun kerakli kadr bo’ldingiz degani emas!",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=UTnhqdcMpUs",
+         "Premiered": "Feb 12, 2021",
+         "Views" : "131,777",
+         "youtube_chanel": "https://www.youtube.com/@azizrakhimov",
+         "instagram_chanel": "https://www.instagram.com/aziz_rakhimov_blog/",
+         "telegram_chanel": "https://t.me/azizrakhimov_blog"
+       },
+
+       {
+         "id": "8",
+         "image": "./public/id_8.jpeg",
+         "name": "Nuruddin",
+         "username": "Iminoxunov",
+         "job": "IT Enthusiast. Product Manager. Community builder.", 
+         "description": "“Yaxshi koʻrgan ishini qilgan insonni toʻxtatib boʻlmaydi” – IT mutaxassisi bilan eksklyuziv suhbat",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=vGjGLLY-CIU",
+         "Premiered": "Feb 26, 2021",
+         "Views" : "62,376",
+         "youtube_chanel": "https://www.youtube.com/watch?v=od-9Bq_CU8k",
+         "instagram_chanel": "https://www.instagram.com/imnuruddin/",
+         "telegram_chanel": "https://t.me/nuruddinblogs"
+       },
+
+       {
+         "id": "9",
+         "image": "./public/id_9.jpg",
+         "name": "Xurshidbek",
+         "username": "Maroziqov",
+         "job": "Founder of 'Girgitton'", 
+         "description": "Ota-onasining orzusidagi yigit bo’lishga harakat qilayotgan farzand bilan suhbat",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=kG0MA_NY_sc",
+         "Premiered": "Mar 12, 2021",
+         "Views" : "374,164",
+         "youtube_chanel": "https://www.youtube.com/watch?v=kG0MA_NY_sc",
+         "instagram_chanel": "https://www.instagram.com/hurshidbey",
+         "telegram_chanel": "https://t.me/fikrbank"
+       },
+
+       {
+         "id": "10",
+         "image": "./public/id_10.jpg",
+         "name": "Muhammad Ali",
+         "username": "Eshonqulov",
+         "job": "Diplomat", 
+         "description": "15 yoshda talaba bo'lgan, 10 mingdan ziyod shogird chiqarishga ulgurgan o'zbek o'g'loni bilan suhbat",
+         "phone": "+998991112233",
+         "youtube_player": "https://www.youtube.com/watch?v=WFTtGlFL52M",
+         "Premiered": "Apr 2, 2021",
+         "Views" : "3,796,779",
+         "youtube_chanel": "https://www.youtube.com/@MuhammadaliEshonqulov",
+         "instagram_chanel": "https://www.instagram.com/muhammadali_eshonqulov/",
+         "telegram_chanel": "https://t.me/Muhammadali_Eshonqulov"
+       }
+   ]
+}
